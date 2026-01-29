@@ -1,5 +1,5 @@
 # 🚀 Hi, I'm Khalid  
-**Software Engineer | Project Manager | Aspiring Full Stack Developer**
+**Software Engineer | Project Manager | Aspiring Full Stack Web Developer**
 
 I’m a backend-heavy developer currently bridging the gap to the front-end to build complete, end-to-end web applications. I bring a security-first mindset and a project management edge to everything I build.
 
